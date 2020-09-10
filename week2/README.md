@@ -3,6 +3,8 @@
 
 **I make a system to draw on paper, using different tools and colours**
 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4083.JPG" width= "400" > 
+
 These tools includes: Oil Pastels 01, Glitter Pen 02, Markers 03, Coloured Pencils 04, Highlighter 05, Finger 06
 
 Colours might vary depends on each tool. 
@@ -28,6 +30,9 @@ __*For example:*__
 
 **WHAT I DID LEARN/ NOTICE?**
 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4079.jpg" height= "400" >
+
+
 1. I notice I didn't set rules before starting. The rules will guide me when the drawing comes to the edge.
 
 1. I notice the size of my circle and ziczac is not consistent, some are big, some are very small
@@ -43,7 +48,6 @@ __*For example:*__
 
 
 1. I intended to just make 20 sets of the system, however, since the lines keep overdraw on each other, I had to keep adding more sets to eventually fill the paper. I ended up with 50 sets to complete the drawing.
-
 
 
 
