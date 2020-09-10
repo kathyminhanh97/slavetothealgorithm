@@ -33,7 +33,7 @@ __*For example:*__
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4079.jpg" height= "400" >
 
 
-1. I notice I didn't set rules before starting. The rules will guide me when the drawing comes to the edge.
+1. I didn't set rules before starting. The rules should have guided me when the drawing comes to the edge.
 
 1. I notice the size of my circle and ziczac is not consistent, some are big, some are very small
 
