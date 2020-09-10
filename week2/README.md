@@ -33,21 +33,19 @@ __*For example:*__
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4079.jpg" height= "400" >
 
 
-1. I didn't set rules before starting. The rules should have guided me when the drawing comes to the edge.
+1. I didn't set rules before starting. The rules should have helped guide me when the drawing got to the edge.
 
-1. I notice the size of my circle and ziczac is not consistent, some are big, some are very small
+1. I notice the sizes of my circle and ziczac is not consistent, some are big, some are very small
 
 => so with this same system, 2 people will have different outcomes
 
 1. I notice it's very interesting that: 
 
-   1. In step 2
+   1. In step 2, funny how number 06 (going down) rarely appreared, which caused most of my outcomes got stucked in the top half of the canvas. 
    
-   1. In step 6 (number of times I have to repeat the ziczic and circle), the dice kept getting number 03 and 06. Not until the 10th set that I got number 06 in step 6
+   1. In step 6 (number of times I have to repeat the ziczic and circle), the dice kept getting number 03 and 06. Not until the 10th set that I got number 02 in step 6
 
-
-
-1. I intended to just make 20 sets of the system, however, since the lines keep overdraw on each other, I had to keep adding more sets to eventually fill the paper. I ended up with 50 sets to complete the drawing.
+1. I intended to just make 20 sets of the system, however, since the lines kept overdrawn on each other, I had to keep adding more sets to eventually fill the paper. I ended up with 50 sets to complete the drawing.
 
 
 
