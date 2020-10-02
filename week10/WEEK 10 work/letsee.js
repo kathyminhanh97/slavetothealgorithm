@@ -40,7 +40,7 @@ function setup() {
   // videoInput.hide();
 
 
-  var cnv = createCanvas(1500, 1240);
+  var cnv = createCanvas(1800, 1240);
   cnv.position(0, 0);
 
   // setup tracker
@@ -58,7 +58,30 @@ function setup() {
 function draw() {
   background (0,100);
 
-  
+  fill(255,255,255);
+  noStroke(0);
+dot.x = random(0,width);
+dot.y = random(0,height);
+col.r = random (150,250);
+col.g = random (150,250);
+col.b = random (150,250);
+fill (col.r,col.g,col.b);
+ellipse (dot.x, dot.y, 50, 50);
+dot.x = random(0,width);
+dot.y = random(0,height);
+col.r = random (125,250);
+col.g = 0;
+col.b = random (20,150);
+fill (col.r,col.g,col.b);
+ellipse (dot.x, dot.y, 120, 120);
+dot.x = random(0,width);
+dot.y = random(0,height);
+col.r = random (125,250);
+col.g = random (150,250);
+col.b = 0;
+fill (col.r,col.g,col.b);
+ellipse (dot.x, dot.y, 25, 25);
+
   
   // scale(-1, 1);
   // image(videoInput, 0, 0, width, height)
@@ -116,33 +139,6 @@ function showResults(er) {
       text(er[5].emotion, 50, 800);
       rect(0, 800, er[5].value*1000, 30);
       fill(0,255,255);
-      
-  if (er[0].value*1000 > 300)
   }
   
-  
-  fill(255,255,255);
-  noStroke(0);
-dot.x = random(0,width);
-dot.y = random(0,height);
-col.r = random (150,250);
-col.g = random (150,250);
-col.b = random (150,250);
-fill (col.r,col.g,col.b);
-ellipse (dot.x, dot.y, 50, 50);
-dot.x = random(0,width);
-dot.y = random(0,height);
-col.r = random (125,250);
-col.g = 0;
-col.b = random (20,150);
-fill (col.r,col.g,col.b);
-ellipse (dot.x, dot.y, 120, 120);
-dot.x = random(0,width);
-dot.y = random(0,height);
-col.r = random (125,250);
-col.g = random (150,250);
-col.b = 0;
-fill (col.r,col.g,col.b);
-ellipse (dot.x, dot.y, 25, 25);
-
 }
