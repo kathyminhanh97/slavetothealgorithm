@@ -51,7 +51,7 @@ function preload() {
   soundButtonOn = loadImage('soundButtonOn.png');
   soundButtonOff = loadImage ('soundButtonOff.png');
   
-//   happySong = loadSound('music/DanceMonkeyCut.mp3');
+ happySong = loadSound('music/DanceMonkeyCut.mp3');
   //surprisedSong = loadSound('music/BoogieWoogieCut.mp3');
   //neutralSong = loadSound('music/BachCut.mp3');
   //sadSong = loadSound('music/MotCoiDiVeCut.mp3');
@@ -238,19 +238,19 @@ function keyPressed(){
   mode = 1;
 }
 }
-// function mousePressed(){//triggers on mousepress
-//   if (happySong.isPlaying()){//check if the song is playing
-//     happySong.stop();//if it is then stop the song
-//     happySong.noLoop();
-//      // set up soundButton
+function mousePressed(){//triggers on mousepress
+  if (happySong.isPlaying()){//check if the song is playing
+    happySong.stop();//if it is then stop the song
+    happySong.noLoop();
+     // set up soundButton
   
-//   }
-//   else{
-//   image(soundButtonOn,0,800,50,50);//changes fill to red
-//   happySong.play();// if it isn't then play the song
-//   happySong.loop();
-//   }
-// }
+  }
+  else{
+  image(soundButtonOn,0,800,50,50);//changes fill to red
+  happySong.play();// if it isn't then play the song
+  happySong.loop();
+  }
+}
 //function mousePressed(){
 //  for (let i = 0; i < songs.length; i++){
 //  if (songs[i].isPlaying()){//check if the song is playing
