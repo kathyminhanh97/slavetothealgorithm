@@ -51,7 +51,7 @@ function preload() {
   soundButtonOn = loadImage('soundButtonOn.png');
   soundButtonOff = loadImage ('soundButtonOff.png');
   
- happySong = loadSound('music/DanceMonkeyCut.mp3');
+  happySong = loadSound('music/DanceMonkeyCut.mp3');
   //surprisedSong = loadSound('music/BoogieWoogieCut.mp3');
   //neutralSong = loadSound('music/BachCut.mp3');
   //sadSong = loadSound('music/MotCoiDiVeCut.mp3');
