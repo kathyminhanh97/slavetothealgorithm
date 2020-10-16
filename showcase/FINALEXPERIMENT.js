@@ -129,7 +129,7 @@ function setup() {
 function draw() {
   clear ();
 if (mode == 0) {
-  background(255,175,197);
+  background(0);
   //translate(400, 100);
   translate(400, 0);
   //text ('Press enter to start',0,0);
