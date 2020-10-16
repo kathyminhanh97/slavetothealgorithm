@@ -76,8 +76,8 @@ function setup() {
   mode = 0;
   textSize(21);
 // set up canvas + camera  
-  //let cnv = createCanvas(window.innerWidth,window.innerHeight);
-  let cnv = createCanvas(1720,1080);
+  let cnv = createCanvas(window.innerWidth,window.innerHeight);
+  //let cnv = createCanvas(1720,1080);
   cnv.position(0,0);
   capture = createCapture(VIDEO);
   capture.size(320, 240);
