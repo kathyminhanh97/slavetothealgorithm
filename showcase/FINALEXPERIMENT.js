@@ -131,7 +131,7 @@ function draw() {
 if (mode == 0) {
   background(255,175,197);
   //translate(400, 100);
-  translate(0, 0);
+  translate(400, 0);
   //text ('Press enter to start',0,0);
   image(homepage, 0,0, 800,500);
 }
