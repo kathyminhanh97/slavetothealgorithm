@@ -1,5 +1,6 @@
-# IRL:Analogue Human-Machine systems  || Processing part 2
-# 12-hour Challenge: 
+# Week2 IRL:Analogue Human-Machine systems  
+# || Processing part 2
+## 12-hour Challenge: 
 
 **I make a system to draw on paper, using different tools and colours**
 
