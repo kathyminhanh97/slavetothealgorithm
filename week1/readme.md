@@ -6,6 +6,6 @@ Everything is confusing, but I'm curious and excited for what's coming.
 ## Class group Activity
 We were spit into groups and our task was to create a generative design without using codes. Our group had a slow start and was quite confusing so this was what we had: 
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/group.jpg" width= "600" >
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/Screen Shot 2020-07-24 at 12.43.37 pm.png" width= "600" >
 
 
