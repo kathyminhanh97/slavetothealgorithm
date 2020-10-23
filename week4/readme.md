@@ -82,4 +82,4 @@ In the 2nd tutorial, we learned how upload font and make a spining text wheel. I
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week4/alterspinning.png" width= "600" > 
 
 
-
+# [--> WEEK 5 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week5)
