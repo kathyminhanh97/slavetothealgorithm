@@ -34,3 +34,5 @@ Andy also mentioned a method called MoSCoW = Must Have, Should Have, Could Have 
 He encouraged us to comeup with lots of different ideas, try them out ,and trust my instincs
 
 I think now I know what I am looking for in the "Project Pitch"
+
+# [--> WEEK 4 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week4)
