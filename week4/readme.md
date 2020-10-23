@@ -4,13 +4,13 @@
 
 Human brain has always been a exciting topic to me.  
 
-My first thought is having a technology that improves one of my biggest weaknesses which is MEMORY. I forget things very easily, and no matter how hard I try, my childhood memories are starting to fade. 
+My first thought for the pitch was creating a technology that improves one of my biggest weaknesses, MEMORY. I forget things very easily, and no matter how hard I try, my childhood memories are starting to fade. 
 
-I know that we human tend to remember things longer when they are attached to our emotions. Therefore, I initially want to create a emotion detect machine, which records my daily emotions and kepts in a smart emotional diary. Each day is illustrated in a different colour which represents the overall emotion of that day, so when I look back at the whole year I can see the colour pattern of that entire year. Moreover, since I am able to play back the emotion of that day, my memories of that particular day will come back.
+I know that we human tend to remember things longer when they are attached to our emotions. Therefore, I initially wanted to create a emotion detect machine, which would record my daily emotions and kept in a smart emotional diary. Each day would be illustrated in a different colour which represented the overall emotion of that day, so when I looked back at the whole year I could see the colour pattern of that entire year. Moreover, since I could play back the emotion of that day, my memories of that particular day would come back.
 
-Another idea is recording emotions of museum visitors when they look at artworks in art museum to create emotional patterns using different colours. These patterns can be printed in souvenir like postcard, t-shirt, etc. so when the visitors look back, they hopefully could remember what they saw in the museum. 
+Another idea was recording emotions of museum visitors while they were looking at artworks in art museum to create emotional patterns using different colours. These patterns could be printed in souvenir like postcard, t-shirt, etc. so when the visitors looked back, they hopefully could remember what they saw in the museum. 
 
-I like these ideas so I start to find information about Emotions and Memories
+I liked these ideas so I started to find information about Emotions and Memories
 
 **EMOTIONS & EMOTIONS TECHNOLOGY**
 
@@ -50,7 +50,7 @@ I like these ideas so I start to find information about Emotions and Memories
 
 --> [YT: Music Medicine: Sound At A Cellular Level | Dr. Lee Bartel | TEDxCollingwood](https://www.youtube.com/watch?v=wDZgzsQh0Dw&ab_channel=TEDxTalks)
 
-I end up not go on with the "Memory" path for my pitch because:
+**I ended up not go on with the "Memory" path for my pitch because:**
 
 1) I want to focus more on the emotion part and I don't want to go down the rabit hole of both emotions and memories. I feel like emotion detecting is the future.
 
