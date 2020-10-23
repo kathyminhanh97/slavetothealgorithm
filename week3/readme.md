@@ -28,7 +28,9 @@ Oh, I forgot to sketch my machine out but oh well... hehe
 
 ## Speculative Design
 I learned new word today, Speculative Design = it could work
+
 Andy also mentioned a method called MoSCoW = Must Have, Should Have, Could Have and Won't Have which I found very useful.
+
 He encouraged us to comeup with lots of different ideas, try them out ,and trust my instincs
 
 I think now I know what I am looking for in the "Project Pitch"
