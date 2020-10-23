@@ -8,9 +8,22 @@ When I knew that we had about an hour to make an non-human machine, I was so exc
 
 Everything I did next was trying to wrap my coloured highlighters and pens around the luggage and then rolled it back and forth to take video and photos.
 
+![](roller2.gif)
+
 I managed to make another machine using my sticky roller too, buy it didn't work
 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/roll.png" width= "800" > 
+
 VOILÀ! I did all of the above in just in time to show to the class. What's a lucky day!
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4084.jpg" width= "800" > 
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4085.jpg" width= "800" > 
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4092.jpg" width= "800" > 
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4094.jpg" width= "800" > 
+
 Oh, I forgot to sketch my machine out but oh well... hehe
 
 ## Speculative Design
