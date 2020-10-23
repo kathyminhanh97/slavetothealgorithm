@@ -9,3 +9,7 @@ We were spit into groups and our task was to create a generative design without 
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/Screen Shot 2020-07-24 at 12.43.37 pm.png" width= "600" >
 
 We didn't manage to do in class so I did this at home 
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/F549AB0F-0B08-4264-A480-0385BFE1C2AF.jpg" width= "600" >
+
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/C3504B66-DB51-4B1E-BA5A-5462AADE5429.jpg" width= "600" >
