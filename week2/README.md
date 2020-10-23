@@ -55,7 +55,7 @@ __*For example:*__
 
 1. I intended to just make 20 sets of the system, however, since the lines kept overdrawn on each other, I had to keep adding more sets to eventually fill the paper. I ended up with 50 sets to complete the drawing.
 
-
+# [--> WEEK 3 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week3)
 
 
 
