@@ -2,16 +2,16 @@
 # || Processing part 2
 ## MY FIRST PROCESSING PORTRAIT YOYOYO
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/portrait.png" width= "400" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/portrait.png" width= "600" > 
 
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/firstsketch.png" width= "400" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/firstsketch.png" width= "600" > 
 
 ## 12-hour Challenge: 
 
 **I make a system to draw on paper, using different tools and colours**
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4083.JPG" width= "400" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week2/IMG_4083.JPG" width= "600" > 
 
 These tools includes: Oil Pastels 01, Glitter Pen 02, Markers 03, Coloured Pencils 04, Highlighter 05, Finger 06
 
