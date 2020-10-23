@@ -16,13 +16,13 @@ I managed to make another machine using my sticky roller too, buy it didn't work
 
 VOILÀ! I did all of the above in just in time to show to the class. What's a lucky day!
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4084.jpg" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4084.jpg" width= "600" > 
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4085.jpg" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4085.jpg" width= "600" > 
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4092.jpg" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4092.jpg" width= "600" > 
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4094.jpg" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4094.jpg" width= "600" > 
 
 Oh, I forgot to sketch my machine out but oh well... hehe
 
