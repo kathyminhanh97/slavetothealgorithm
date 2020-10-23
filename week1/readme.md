@@ -13,3 +13,5 @@ We didn't manage to do in class so I did this at home
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/F549AB0F-0B08-4264-A480-0385BFE1C2AF.jpg" width= "800" >
 
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week1/C3504B66-DB51-4B1E-BA5A-5462AADE5429.jpg" width= "800" >
+
+# [--> WEEK2 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week2)
