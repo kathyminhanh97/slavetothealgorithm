@@ -1,8 +1,16 @@
-# Week4 PITCH IS NEXT WEEK???? WHAT???
+# Week4 PITCH IS NEXT WEEK???
 
 ## Preparation for next week presentation 
 
-Initually, I wanted to so I gather so many information about this 
+Human brain has always been a exciting topic to me.  
+
+My first thought is having a technology that improves one of my biggest weaknesses which is MEMORY. I forget things very easily, and no matter how hard I try, my childhood memories are starting to fade. 
+
+I know that we human tend to remember things longer when they are attached to our emotions. Therefore, I initially want to create a emotion detect machine, which records my daily emotions and kepts in a smart emotional diary. Each day is illustrated in a different colour which represents the overall emotion of that day, so when I look back at the whole year I can see the colour pattern of that entire year. Moreover, since I am able to play back the emotion of that day, my memories of that particular day will come back.
+
+Another idea is recording emotions of museum visitors when they look at artworks in art museum to create emotional patterns using different colours. These patterns can be printed in souvenir like postcard, t-shirt, etc. so when the visitors look back, they hopefully could remember what they saw in the museum. 
+
+I like these ideas so I start to find information about Emotions and Memories
 
 **EMOTIONS & EMOTIONS TECHNOLOGY**
 
@@ -17,15 +25,6 @@ Initually, I wanted to so I gather so many information about this
 --> [YT: Emotional Technology](https://www.youtube.com/watch?v=5u45-x0-zoY&ab_channel=TheSchoolofLife)
 
 --> [Article: Emotion and Our Senses](https://sites.tufts.edu/emotiononthebrain/2014/10/09/emotion-and-our-senses/)
-
-
-I ended up didn't go on with this path for my pitch because:
-
-1) I don't want to go down the rabit hole of both emotions and memories since I feel like emotion detecting is the future.
-
-2) Instead, combining with the growth of Smart House (Almost all of my friend have some sort of smart things in their house: Smart TV, Smart Lighting, SmartHome, etc.), I believe this topic is worth talking about. 
-
-However, below are interest links I found. Althought I ended up didn't explore on my choice, researching that topic properly expanded my knowledge about how our memories and emotions work. 
 
 **MEMORIES**
 
@@ -50,6 +49,14 @@ However, below are interest links I found. Althought I ended up didn't explore o
 --> [YT: How sound can hack your memory while you sleep | DIY Neuroscience, a TED series](https://www.youtube.com/watch?v=A3L6OZdnVWE&ab_channel=TED)
 
 --> [YT: Music Medicine: Sound At A Cellular Level | Dr. Lee Bartel | TEDxCollingwood](https://www.youtube.com/watch?v=wDZgzsQh0Dw&ab_channel=TEDxTalks)
+
+I end up not go on with the "Memory" path for my pitch because:
+
+1) I want to focus more on the emotion part and I don't want to go down the rabit hole of both emotions and memories. I feel like emotion detecting is the future.
+
+2) Instead, with the growth of Smart House (Almost all of my friend have some sort of smart things in their house: Smart TV, Smart Lighting, SmartHome, etc.), I can see how the surrounding technology is starting to impact our emotions. I believe this topic is worth talking about. 
+
+Althought it isn't on my choice, researching these topic properly expanded my knowledge about how our memories and emotions work. 
 
 
 ## Class Activity 
