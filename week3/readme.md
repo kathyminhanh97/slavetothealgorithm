@@ -12,7 +12,7 @@ Everything I did next was trying to wrap my coloured highlighters and pens aroun
 
 I managed to make another machine using my sticky roller too, buy it didn't work
 
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/roll.png" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week3/IMG_4638.jpg" width= "300" > 
 
 VOILÀ! I did all of the above in just in time to show to the class. What's a lucky day!
 
