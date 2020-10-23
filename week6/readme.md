@@ -20,6 +20,7 @@ Lauren also has many other amazing projects that I can help further explore my p
 1) We were split into groups. Each member had an chance to make an prototype of the same vintage game with their gorup members. Everyone turned on their webcame so we could see each other working in front of the screen, which was interesting. The only game I know is Mario so we chose Mario to make an prototype. 
 
 This is what I made. 
+
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week6/mario.png" width= "600" > 
 
 2) We also learn to insert sound into p5js, and using the sound amplitude to change the parameter of an ellipse.
