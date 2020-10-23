@@ -6,7 +6,7 @@ Click here to see my presentation slides
 
 It was a long but exciting day. My classmates' ideas are very diversed and interesting, very different from mine. 
 
-## My whole idea is basically a eco-system - a smart house 
+## My whole idea is basically a eco-system - a smart house that detects and influences the home owner's emotions 
 
 **The inputs are:**
 
@@ -25,6 +25,6 @@ Although we are allowed to go crazy for this pitch, I realised my idea is quite 
 My have so many ideas that I want to do but my technical skill is 0...
 
 
-
+# [--> WEEK 6 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week6)
 
 
