@@ -29,4 +29,4 @@ This is what I made.
 
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week6/red.png" width= "600" > 
 
-#[-->WEEK7](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week7)
+# [-->WEEK7](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week7)
