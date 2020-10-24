@@ -53,7 +53,9 @@ https://www.auduno.com/clmtrackr/docs/reference.html
 
 https://raw.githubusercontent.com/auduno/clmtrackr/dev/build/clmtrackr.min.js 
 
-**Although I don't get this to work, I really appreciate Jeff Thompson for posting the video. I tried to do it myself before watching the video and it was like piecing puzzles together without knowing the entire picture. I understand much better now about how this whole thing works**
+## **Although I don't get this to work, I really appreciate Jeff Thompson for posting the video.**
+
+**I tried to do it myself before watching the video and it was like piecing puzzles together without knowing the entire picture. I understand much better now about how this whole thing works**
 
 X) The Emotion detection using Face API using Tenor Flow??? (I need to ask Yasmin again about this)
 
@@ -89,6 +91,8 @@ scale (-1.1);
 3) How to Download Tenor Flow?  What is pip?  So we download Anaconda or Python? What is Python virtual environment?
 
 4) How to create a .vert and .frag files on the sketch folder?
+
+# [--> WEEK 9 ^^](https://github.com/kathyminhanh97/slavetothealgorithm/tree/master/week9)
 
 
 
