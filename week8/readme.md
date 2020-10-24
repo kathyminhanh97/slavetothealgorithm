@@ -5,10 +5,10 @@ I brought to the class my Pseudocode and my refined paper prototype.
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week8/refinedprototype.jpg" width= "600" > 
 
 <img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week8/Pseudocode.png" width= "600" > 
-tiengviet.png
+
 ## Class Activity 
 
-This week turn speech into types. 
+This week we learned how to turn speech into types. 
 
 WThis amaze me so much because I didn't think this was possible. The speech recognition was so accurate and had little-to-no delay. It's just like what we normally see on Youtube CC, was made in a short amount of time with a few line of codes. 
 
