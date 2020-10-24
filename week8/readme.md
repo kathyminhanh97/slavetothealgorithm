@@ -53,6 +53,8 @@ https://www.auduno.com/clmtrackr/docs/reference.html
 
 https://raw.githubusercontent.com/auduno/clmtrackr/dev/build/clmtrackr.min.js 
 
+**Although I don't get this to work, I really appreciate Jeff Thompson for posting the video. I tried to do it myself before watching the video and it was like piecing puzzles together without knowing the entire picture. I understand much better now about how this whole thing works**
+
 X) The Emotion detection using Face API using Tenor Flow??? (I need to ask Yasmin again about this)
 
 Tutorial by Web Dev Simplified and codeSTACKr (YouTube) 
