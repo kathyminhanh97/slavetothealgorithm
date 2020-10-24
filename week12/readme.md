@@ -1,11 +1,10 @@
+# Week12 FINAL PRESENTATION <3
+
 # LINK TO THE WEBSITE 
 --> https://kathyminhanh97.github.io/slavetothealgorithm/showcase/ 
 
 # LET'S SEE EMOTIONS!!!
-
-
-
-<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/showcase/headimage.png" width= "800" > 
+<img src="https://github.com/kathyminhanh97/slavetothealgorithm/blob/master/week12/headimage.png" width= "800" > 
 
 ## Artist Statement 
 
@@ -15,8 +14,8 @@
 
 With the rapid growth of technology, we are getting to the point where advanced machines could analyze, define, and understand human's complex emotions better than human ourselves. This occurrence happens because we allow digital devices to influence our moods, impact our mental/physical health, and hence, affect our quality of life.  Although the positive advantages that technology brings seem to outweigh the negatives aspects, it's crucial to be aware and take full control of one of the most valuable things that make us human, our emotions. While interacting with the webpage, users are encouraged to explore and "see" different states of their emotions visualized on the screen. These graphic visualizations added with sound effects purposely boost the user's current feeling, including the negative ones such as anger and sadness. The experience aims to shift the tendency of depending on technology to detect and enhance human emotions to introspection. Starting with users exploring their feelings, this hopefully will lead to self-contemplation, and self-reflection, most importantly, the self-acknowledgment that true peace comes from within and that there is no external factor that could impact one's state of happiness. 
 
-![](CUT2-clip.gif)
+![](MinhAnhNguyen(Katma)_s3616225_WEBGRAPHIC)
 
 ## REFLECTION
-
-     I have learned so much in just an intensive short amount of time, especially for this last assignment, from technical skills like coding to non-code-related skills like time-management. However, I guess the primary skill I gained is problem-solving since there were countless hiccups and moments where I thought I could be better give up and drop out of the course. I realized the importance of having a strong basic fundamental knowledge of doing anything before jumping to more advanced jobs. Since my project is about visualizing emotions, which was very overwhelming for a beginner, in the month, I went back to practice simple coding for almost every day to get comfortable with the logical thinking of code. I can say I finally understand the indescribable satisfaction and excitement of accomplishing a piece of code. Even after this course, I want to keep working, refine, and explore other possible outcomes to level up this project.  I also want incorporate generative art with my other practices besides design such as photography and makeup.
+I have learned so much in just an intensive short amount of time, especially for this last assignment, from technical skills like coding to non-code-related skills like time-management. However, I guess the primary skill I gained is problem-solving since there were countless hiccups and moments where I thought I could be better give up and drop out of the course. I realized the importance of having a strong basic fundamental knowledge of doing anything before jumping to more advanced jobs. Since my project is about visualizing emotions, which was very overwhelming for a beginner, in the month, I went back to practice simple coding for almost every day to get comfortable with the logical thinking of code. I can say I finally understand the indescribable satisfaction and excitement of accomplishing a piece of code. Even after this course, I want to keep working, refine, and explore other possible outcomes to level up this project.  I also want incorporate generative art with my other practices besides design such as photography and makeup.
+   
